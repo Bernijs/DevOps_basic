@@ -1,2 +1,2 @@
-# DevOps
-Bernhards DevOps repozitorijs pamati iesācējiem
+# DevOps repository
+Bernhards DevOps basics for beginners repository
