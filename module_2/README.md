@@ -14,7 +14,7 @@ git log --author="Laura Pacilio"
 
 18. Atrast vai Laura ir veikusi commit pagājušā gada septembrī?
 
-Laura ir veikusi 11 commit pagājušā gada septembrī
+Laura ir veikusi 11 commit pagājušā gada septembrī  
 git log --pretty="%an - %cd" --author="Laura Pacilio" --since="31-08-2021" --until="30-09-2021"
 
 19. Vai Laura ir veikusi commit vakar?
