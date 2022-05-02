@@ -4,22 +4,18 @@
 commit hash ir atšķirīgi. 
 
 16. Pārbaudīt kādas izmaiņas tika veiktas iepriekšējās nedēļas laikā. Atrast vismaz divus veidus kā to izdarīt.
-
-git log --since=1.week
+git log --since=1.week  
 https://github.com/hashicorp/terraform/commits/main
 
-17. Atrast commit kurus veica autors - “Laura Pacilio”
-
+17. Atrast commit kurus veica autors - “Laura Pacilio”  
 git log --author="Laura Pacilio"
 
-18. Atrast vai Laura ir veikusi commit pagājušā gada septembrī?
-
+18. Atrast vai Laura ir veikusi commit pagājušā gada septembrī?  
 Laura ir veikusi 11 commit pagājušā gada septembrī  
 git log --pretty="%an - %cd" --author="Laura Pacilio" --since="31-08-2021" --until="30-09-2021"
 
-19. Vai Laura ir veikusi commit vakar?
-
-Laura nav veikusi commit vakar. 
+19. Vai Laura ir veikusi commit vakar?  
+Laura nav veikusi commit vakar.  
 git log --since=yesterday
 
 20. Rezultātus apkopot module_2 > README.md un pārsūtīt rezultātu github.
