@@ -12,4 +12,5 @@ https://github.com/Bernijs/DevOps_basic
 3.	Jāuzstāda vienu no koda rediģēšanas programmām. 
 Jānodod: bilde no jūsu redaktora ar Hello World programmu jebkurā programmēšanas valodā, kuru pārvaldāt ar attiecīgo stilu.
 ![](https://github.com/Bernijs/DevOps_basic/blob/main/module_1/HelloWorld_Java.png?raw=true)
+
 😬(nepārvaldu programmēšanu)
