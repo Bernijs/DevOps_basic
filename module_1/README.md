@@ -8,6 +8,7 @@ https://github.com/Bernijs/DevOps_basic
 ![](https://github.com/Bernijs/DevOps_basic/blob/main/module_1/gitInstall.png?raw=true)
 
 ![](https://github.com/Bernijs/DevOps_basic/blob/main/module_1/gitVersion.png?raw=true)
+
 3.	Jāuzstāda vienu no koda rediģēšanas programmām. 
 Jānodod: bilde no jūsu redaktora ar Hello World programmu jebkurā programmēšanas valodā, kuru pārvaldāt ar attiecīgo stilu.
 ![](https://github.com/Bernijs/DevOps_basic/blob/main/module_1/HelloWorld_Java.png?raw=true)
