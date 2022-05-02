@@ -1,6 +1,6 @@
-### DevOps pamati iesācējiem
-#### 1. md
-#### 2. grupa, Bernhards Zaumanis
+## DevOps pamati iesācējiem
+### MD1
+### 2. grupa, Bernhards Zaumanis
 
 1. Jāizveido jauns repozitorijs GitHub, kurš satur README.md failu. Jānodod: links uz repozitoriju.  
 https://github.com/Bernijs/DevOps_basic
