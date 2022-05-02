@@ -3,7 +3,7 @@
 
 commit hash ir atšķirīgi. 
 
-16. Pārbaudīt kādas izmaiņas tika veiktas iepriekšējās nedēļas laikā. Atrast vismaz divus veidus kā to izdarīt.
+16. Pārbaudīt kādas izmaiņas tika veiktas iepriekšējās nedēļas laikā. Atrast vismaz divus veidus kā to izdarīt.  
 git log --since=1.week  
 https://github.com/hashicorp/terraform/commits/main
 
