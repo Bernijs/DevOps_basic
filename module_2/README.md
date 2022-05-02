@@ -25,8 +25,11 @@ git log --since=yesterday
 git log --pretty="%an - %ad - %cd" --since="20-04-2021" --until="21-04-2021"  
 cenšos saprast. Atbilde varētu būt šeit:  https://stackoverflow.com/questions/11856983/why-is-git-authordate-different-from-commitdate
 
+```sh
 --date=<date>
 Override the author date used in the commit.
+```
 
-Usefull links:
-https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
+|Usefull links:|
+| ------ | 
+|https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History|
